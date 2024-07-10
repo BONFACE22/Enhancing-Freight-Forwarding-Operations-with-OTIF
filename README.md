@@ -16,6 +16,13 @@
 ## Driver Analysis
 ![DRIVER ANALYSIS](https://github.com/BONFACE22/Enhancing-Freight-Forwarding-Operations-with-OTIF/assets/66133402/fd26e43e-2f94-4dc7-83c4-c2537f99fd7d)
 
+## Tableau Logistics Analysis
+![TABLEAU LOGISTICS](https://github.com/BONFACE22/Enhancing-Freight-Forwarding-Operations-with-OTIF/assets/66133402/eeaa754b-4772-4365-8a9f-d385b02f9b70)
+
+##Tableau Driver Analysis
+![TABLEAU DRIVER ANALYSIS](https://github.com/BONFACE22/Enhancing-Freight-Forwarding-Operations-with-OTIF/assets/66133402/191820ef-9f64-4688-b9c0-31b76a4580d9)
+
+
 
 
 
